@@ -1,0 +1,1 @@
+ExamHall Face Recognition is a lightweight attendance system for exam halls. It captures students' faces at entry, matches them against the official hall ticket (ID) photos stored in the database, and marks attendance automatically when a confident match is found.
